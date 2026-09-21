@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a developer passionate about building cool projects and learning new technologies. 
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Quant Research Platform** and **Image Morpher**.
-- 🌱 I’m currently learning deeper concepts in **Python** and **Web Development**.
-- 💡 I love exploring new tech and solving interesting problems.
+🔭 I’m currently focused on AI, Multi-Agent Systems, and GPU-Accelerated Simulations.
+🌱 I’m currently diving deeper into Reinforcement Learning and Computer Vision.
+⚙️ Check out my implementation of Optimal Transport theory for image morphing below!
 - 📫 How to reach me: **aryananand2605@gmail.com**
 
 ## 🛠️ Languages and Tools
