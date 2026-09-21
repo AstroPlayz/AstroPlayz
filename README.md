@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building cool pro
 - 🔭 I’m currently working on **Quant Research Platform** and **Image Morpher**.
 - 🌱 I’m currently learning deeper concepts in **Python** and **Web Development**.
 - 💡 I love exploring new tech and solving interesting problems.
-- 📫 How to reach me: **[Add your email or LinkedIn here]**
+- 📫 How to reach me: **aryananand2605@gmail.com**
 
 ## 🛠️ Languages and Tools
 <!-- You can add/remove technologies you use here -->
